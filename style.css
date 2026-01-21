@@ -1,0 +1,30 @@
+img {
+    width: 256px;
+}
+
+body {
+    text-align: center;
+    margin-top: 6.225%;
+    background-color: darkseagreen;
+    font-family: "Macondo";
+}
+
+.macondo-regular {
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(63, 65, 199);
+}
+
+a {
+    text-decoration: none;
+    list-style: none;
+}
